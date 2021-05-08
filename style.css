@@ -6,7 +6,12 @@ body {
 }
 
 .header-section {
-  background: #fff;
+	background: #fff;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 99999;
 }
 .header-left {
 }
